@@ -13,3 +13,13 @@
     animation-duration: 7s;
     margin-bottom: 10px;
 }
+
+@keyframes pepopin {
+    0% {background: blue;}
+    10% {background: chartreuse;}
+    20% {background: cornflowerblue;}
+    30% {background: darkgreen;}
+    40% {background: darkred;}
+    80% {background: deeppink;}
+    100% {background: dimgrey;}
+}
