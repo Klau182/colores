@@ -14,6 +14,94 @@
     margin-bottom: 10px;
 }
 
+#cuadrado1 {
+    height: 150px;
+    width: 200px;
+    background: blue;
+    animation-name: pepopin;
+    animation-duration: 7s;
+    margin-bottom: 10px;
+}
+
+#cuadrado2 {
+    height: 150px;
+    width: 200px;
+    background: blue;
+    animation-name: pepopin;
+    animation-duration: 7s;
+}
+
+#cuadradito {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 50px;
+    height: 150px;
+    width: 200px;
+    background: #48ff00;
+    animation-name: pepopina;
+    animation-duration: 17s;
+}
+
+#cuadradito1 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 50px;
+    height: 150px;
+    width: 200px;
+    background: #48ff00;
+    animation-name: pepopina;
+    animation-duration: 17s;
+}
+
+#cuadradito2 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 50px;
+    height: 150px;
+    width: 200px;
+    background: #48ff00;
+    animation-name: pepopina;
+    animation-duration: 17s;
+}
+
+#cuadrito {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 50px;
+    height: 150px;
+    width: 200px;
+    background: rgb(226, 109, 12);
+    animation-name: pepopin1;
+    animation-duration: 37s;
+}
+
+#cuadrito1 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 50px;
+    height: 150px;
+    width: 200px;
+    background: rgb(226, 109, 12);
+    animation-name: pepopin1;
+    animation-duration: 37s;
+}
+
+#cuadrito2 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 50px;
+    height: 150px;
+    width: 200px;
+    background: rgb(226, 109, 12);
+    animation-name: pepopin1;
+    animation-duration: 37s;
+}
 @keyframes pepopin {
     0% {background: blue;}
     10% {background: chartreuse;}
