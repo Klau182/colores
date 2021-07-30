@@ -111,3 +111,24 @@
     80% {background: deeppink;}
     100% {background: dimgrey;}
 }
+
+@keyframes pepopin1 {
+    0% {background: rgb(0, 255, 34);}
+    10% {background: #0004ff;}
+    20% {background: rgb(197, 37, 131);}
+    30% {background: darkgreen;}
+    40% {background: darkred;}
+    80% {background: rgb(12, 148, 202);}
+    100% {background: dimgrey;}
+}
+
+@keyframes pepopina {
+    0% {background: rgb(255, 0, 255);}
+    10% {background: #0004ff;}
+    20% {background: rgb(197, 37, 131);}
+    30% {background: rgb(86, 2, 94);}
+    40% {background: rgb(253, 149, 149);}
+    80% {background: rgb(12, 148, 202);}
+    100% {background: rgb(131, 167, 2);}
+}
+
